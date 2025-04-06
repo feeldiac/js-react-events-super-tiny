@@ -1,12 +1,10 @@
 import "./App.css";
-// import View01 from "./views/01/View01";
-import View02 from "./views/02/View02";
+import View03 from "./views/03/View03";
 
 function App() {
   return (
     <>
-      {/* <View01 /> */}
-      <View02 />
+      <View03 />
     </>
   );
 }
