@@ -1,0 +1,33 @@
+button {
+    display: block;
+    margin: 20px 0 20px 20px;
+}
+
+.buttonBar {
+    padding: 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin: 20px 0;
+    font-size: 16px;
+    width: 500px;
+    height: 50px;
+}
+
+[data-color="red"] {
+    color: red;
+}
+[data-color="green"] {
+    color: green;
+}
+[data-color="yellow"] {
+    color: yellow;
+}
+[data-color="purple"] {
+    color: purple;
+}

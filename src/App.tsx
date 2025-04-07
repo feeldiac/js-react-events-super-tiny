@@ -1,10 +1,10 @@
 import "./App.css";
-import View03 from "./views/03/View03";
+import View04 from "./views/04/View04";
 
 function App() {
   return (
     <>
-      <View03 />
+      <View04 />
     </>
   );
 }
